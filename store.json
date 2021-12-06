@@ -1,0 +1,28 @@
+{
+  "phone": "+375445768092",
+  "token": "2105660094:AAG-u5YKtcq5UVAvewlOFMKdeDhBtsfA7Q0",
+  "token_prod": "2086752593:AAH9BpGaiPkdRtI3V-ttGNy65NyxPNrNwEA",
+  "password": 730377,
+  "street": "Разинская",
+  "house": "66/А",
+  "pikes": {
+    "Тейсти": {
+      "type": "snack",
+      "id": 32,
+      "size": "big",
+      "dough": ""
+    },
+    "Острый": {
+      "type": "snack",
+      "id": 33,
+      "size": "big",
+      "dough": ""
+    },
+    "Грибной": {
+      "type": "snack",
+      "id": 34,
+      "size": "big",
+      "dough": ""
+    }
+  }
+}
